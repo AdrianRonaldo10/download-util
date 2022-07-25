@@ -1,0 +1,5 @@
+/build
+/dist
+/download_novel_util.egg-info
+./setup.py
+/.idea
